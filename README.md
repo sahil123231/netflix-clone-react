@@ -68,38 +68,27 @@ npm start
 
 ## Screen Shot
 
-Live Demo : [Click Here](https://netflixgpt-in.netlify.app/)
-
-## Screen Shot
-
 - Signin Page
 
-  ![Signin Page](https://github.com/Anandsg/NetflixGpt/blob/main/public/screenshot/01-signin.png)
+  ![Signin Page](https://github.com/sahil123231/netflix-clone-react/blob/main/public/screenshot/01-signin.png)
 
 - Signup Page
 
-  ![Signup Page](https://github.com/Anandsg/NetflixGpt/blob/main/public/screenshot/02-signup.png)
+  ![Signup Page](https://github.com/sahil123231/netflix-clone-react/blob/main/public/screenshot/02-signup.png)
 
 - Browse Page
 
-  ![Browse Page](https://github.com/Anandsg/NetflixGpt/blob/main/public/screenshot/03-browse.png)
+  ![Browse Page](https://github.com/sahil123231/netflix-clone-react/blob/main/public/screenshot/03-browse.png)
 
 - Movie List
 
-  ![Movie List](https://github.com/Anandsg/NetflixGpt/blob/main/public/screenshot/04-movieList.png)
+  ![Movie List](https://github.com/sahil123231/netflix-clone-react/blob/main/public/screenshot/04-movieList.png)
 
 - Search Page
 
-  ![Search Page](https://github.com/Anandsg/NetflixGpt/blob/main/public/screenshot/05-searchMovies.png)
+  ![Search Page](https://github.com/sahil123231/netflix-clone-react/blob/main/public/screenshot/05-searchMovies.png)
 
 - Movie results page
 
-  ![Movie results](https://github.com/Anandsg/NetflixGpt/blob/main/public/screenshot/06-movieSuggestions.png)
+  ![Movie results](https://github.com/sahil123231/netflix-clone-react/blob/main/public/screenshot/06-movieSuggestions.png)
 
-`<Happy coding />`
-
-If you have any questions, suggestions, or just want to connect, feel free to reach out.
-
-Feel free to modify it to suit the tone and style of your project. The goal is to encourage participation, collaboration and learning.
-
-Made with ❤️ and React.
